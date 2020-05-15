@@ -16,6 +16,6 @@ body #wall .parent #tag-4 {
   display: none;
 }
 
-body #wall .parent > class {
+body #wall .parent ~ div {
   display: none;
 }
