@@ -1,6 +1,6 @@
 /* write your override styles here */
 
-body #wall .tag-1 {
+#wall .tag-1 {
   display: none;
 }
 
