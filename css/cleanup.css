@@ -12,6 +12,6 @@ body #wall #tag-2 ~ #tag-3 {
   display: none;
 }
 
-body {
+body #wall .parent {
   display: none;
 }
