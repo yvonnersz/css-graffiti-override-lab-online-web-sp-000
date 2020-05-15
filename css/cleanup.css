@@ -8,6 +8,6 @@ body #wall #tag-2{
   display: none;
 }
 
-class[id="tag-3"] {
+body #wall #tag-3 {
   display: none;
 }
