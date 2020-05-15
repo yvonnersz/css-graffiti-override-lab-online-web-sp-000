@@ -16,6 +16,6 @@ body #wall .parent #tag-4 {
   display: none;
 }
 
-body #wall .parent > #tag-5{
+body #wall .parent > id {
   display: none;
 }
