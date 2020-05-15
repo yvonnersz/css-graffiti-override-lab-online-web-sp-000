@@ -8,7 +8,7 @@ body #wall #tag-2 {
   display: none;
 }
 
-body #wall #tag-2 ~ #tag-3 {
+body #wall #tag-2 + #tag-3 {
   display: none;
 }
 
