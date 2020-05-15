@@ -23,3 +23,7 @@ body #wall .parent + .parent #tag-5.slick {
 body #wall .parent + .parent + .parent #tag-6 {
   display:none;
 }
+
+body #wall .parent + .parent + .parent + .parent #tag-7 {
+  display:none;
+}
