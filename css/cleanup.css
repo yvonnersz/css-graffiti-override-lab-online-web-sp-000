@@ -4,10 +4,10 @@
   display: none;
 }
 
-body #wall #tag-2{
+body #wall #tag-2 {
   display: none;
 }
 
-body #wall #tag-3[class="slick wicked"] {
+body #wall #tag-2{
   display: none;
 }
