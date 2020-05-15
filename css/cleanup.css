@@ -8,6 +8,6 @@ body #wall #tag-2{
   display: none;
 }
 
-#wall #tag-3[class="slick wicked"] {
+#wall[class="slick wicked"] {
   display: none;
 }
